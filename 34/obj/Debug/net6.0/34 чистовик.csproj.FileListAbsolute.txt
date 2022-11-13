@@ -1,0 +1,15 @@
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.csproj.AssemblyReference.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.AssemblyInfoInputs.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.AssemblyInfo.cs
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.csproj.CoreCompileInputs.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\bin\Debug\net6.0\34 чистовик.exe
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\bin\Debug\net6.0\34 чистовик.deps.json
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\bin\Debug\net6.0\34 чистовик.runtimeconfig.json
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\bin\Debug\net6.0\34 чистовик.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\bin\Debug\net6.0\34 чистовик.pdb
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\refint\34 чистовик.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.pdb
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\34 чистовик.genruntimeconfig.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz51\34 чистовик\obj\Debug\net6.0\ref\34 чистовик.dll
